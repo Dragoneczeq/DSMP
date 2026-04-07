@@ -1,0 +1,6 @@
+#General mod settings
+[general]
+	#Mobs enhanced by zombie awareness
+	enhancedMobs = ["minecraft:zombie", "minecraft:husk", "minecraft:creeper", "minecraft:skeleton", "minecraft:stray", "minecraft:witch", "minecraft:zombie_villager"]
+	#This is a list to use as a reference for your modpack for mobs you might want to enhance, if these mobs also walk on the ground, they will probably work if you add them to enhancedMobs
+	enhanceableMobs = ["minecraft:zombified_piglin", "minecraft:wither_skeleton", "minecraft:drowned", "minecraft:silverfish", "minecraft:hoglin", "minecraft:elder_guardian", "minecraft:zombie", "minecraft:creeper", "minecraft:magma_cube", "minecraft:witch", "minecraft:illusioner", "minecraft:skeleton", "minecraft:piglin", "minecraft:giant", "minecraft:piglin_brute", "minecraft:pillager", "minecraft:warden", "minecraft:evoker", "minecraft:shulker", "minecraft:endermite", "minecraft:zoglin", "minecraft:bogged", "minecraft:ender_dragon", "minecraft:cave_spider", "minecraft:blaze", "minecraft:ravager", "minecraft:vindicator", "minecraft:breeze", "minecraft:guardian", "minecraft:enderman", "minecraft:stray", "minecraft:husk", "minecraft:phantom", "minecraft:ghast", "minecraft:slime", "minecraft:wither", "minecraft:vex", "minecraft:spider", "minecraft:zombie_villager"]
