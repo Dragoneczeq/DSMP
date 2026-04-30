@@ -1,0 +1,1468 @@
+{
+  "packName": "DSMP Modpack",
+  "packVersion": "2026-04-30T23:05:18.907Z",
+  "mcVersion": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.219",
+  "generatedAt": "2026-04-30T23:05:40.450Z",
+  "files": [
+    {
+      "path": "config/fancymenu/assets/dsmpl.png",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/assets/dsmpl.png",
+      "sha256": "a22a9908e382294c431bb4ca4f9411306d1136d4ac59e1c74527a73317cad59a",
+      "size": 47889
+    },
+    {
+      "path": "config/fancymenu/assets/icon.png",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/assets/icon.png",
+      "sha256": "f4e8374a395afde90b65ada5a129f73d4b54080d7068d42307096f614a04954a",
+      "size": 2340
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/custom_gui_screens.txt",
+      "sha256": "ff5ea20977d5ba31044abfb1864d905ad448f190d6bea81d3f132d191e45acbc",
+      "size": 285
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/customizablemenus.txt",
+      "sha256": "80782eb4e401ca1d674fc3874ec233a1ebacbf87316ae4a837acb4d4e0648e6b",
+      "size": 2528
+    },
+    {
+      "path": "config/fancymenu/customization/background.txt",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/customization/background.txt",
+      "sha256": "d43bbd8e546bfd4967c6f222130992df9ec844fed370a9cb56801afe5777e290",
+      "size": 1279
+    },
+    {
+      "path": "config/fancymenu/customization/dsmp.txt",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/customization/dsmp.txt",
+      "sha256": "f529190a89c5b75262cb590ba8830a009316052b4476da6cbad6f96cefc5d3fc",
+      "size": 43092
+    },
+    {
+      "path": "config/fancymenu/customization/pause_screen_layoutdsmp.txt",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/customization/pause_screen_layoutdsmp.txt",
+      "sha256": "68379df12ec785f5a616144d7f5ca748b9e6a9d8a59f645ab02c8412fdc9a777",
+      "size": 30013
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha256": "3c2f38c310e43fb361ae2d1c5d2cf62346d111e319a881f147ad70e3fc0f98ff",
+      "size": 197
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/legacy_checklist.txt",
+      "sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+      "size": 42
+    },
+    {
+      "path": "config/fancymenu/normalized_scroll_screens.json",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/normalized_scroll_screens.json",
+      "sha256": "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1",
+      "size": 27
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/options.txt",
+      "sha256": "1e2a2de13b0a1748e00c63983de2574b0473dfa86bddd3aa55e39a8e8b9b73c8",
+      "size": 2140
+    },
+    {
+      "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_0.png",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_0.png",
+      "sha256": "c39bbfe2f1286117aa2a75ee743b8bbccf47464f5fe9ebec97533fa64a24b80f",
+      "size": 5448072
+    },
+    {
+      "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_1.png",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_1.png",
+      "sha256": "58dcd77d672f515b257e1ec49e5c2e95c9692e114f179c7ac2019b3667dd99f9",
+      "size": 5143007
+    },
+    {
+      "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_2.png",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_2.png",
+      "sha256": "dede2a5451c4aad58c972f72c427a0e911f265cafad849142c5fc695722269ca",
+      "size": 5085729
+    },
+    {
+      "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_3.png",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_3.png",
+      "sha256": "c865feb44bd5ef75d7db43b7799b5e28e3ea5d21ac34befdd7accf8bda651a7a",
+      "size": 4902854
+    },
+    {
+      "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_4.png",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_4.png",
+      "sha256": "32b8fed2ef409614b8a55668743af62afba63a1de1653519bf114991bad4254c",
+      "size": 4265523
+    },
+    {
+      "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_5.png",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_5.png",
+      "sha256": "0363ffc0d9ff9294a4edbf002437924abba16d510f15be21b7788fbe4f5f1d9a",
+      "size": 6196299
+    },
+    {
+      "path": "config/fancymenu/panoramas/dsmp/properties.txt",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/properties.txt",
+      "sha256": "651b08ff43a3e4e8100d8685b3b76c0bcb30a4ef569b59d420d5ecad361dea3a",
+      "size": 119
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/ui_themes/dark.json",
+      "sha256": "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850",
+      "size": 6218
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/ui_themes/light.json",
+      "sha256": "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41",
+      "size": 6220
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/user_variables.db",
+      "sha256": "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+      "size": 23
+    },
+    {
+      "path": "config/fancymenu/video_element_controller_metas.json",
+      "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/video_element_controller_metas.json",
+      "sha256": "ecc71ccddf9fb141c261addb3860de5f3391ffa689b75460531958b2bc56b5d6",
+      "size": 130
+    },
+    {
+      "path": "mods/[1.21.1] SecurityCraft v1.10.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/[1.21.1] SecurityCraft v1.10.1.jar",
+      "sha256": "cce82e9f2b74b2c678241a24eeca6c656a07f55f73e16d4d860591db5ed4435f",
+      "size": 4951098
+    },
+    {
+      "path": "mods/[neoforge]ctov-3.6.2b.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/[neoforge]ctov-3.6.2b.jar",
+      "sha256": "5d9f5e61921755dfa0aa277132fbe067831ea309fc58c1d7df806522f7189e0c",
+      "size": 7098707
+    },
+    {
+      "path": "mods/[neoforge]imst-2.2.1c.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/[neoforge]imst-2.2.1c.jar",
+      "sha256": "2916306ffa47291d7f8655a6b69e73bc334ecf60e3d5ff61378a5c3c13371732",
+      "size": 460128
+    },
+    {
+      "path": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "sha256": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0",
+      "size": 1078697
+    },
+    {
+      "path": "mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
+      "sha256": "ae0ec0a574d4ebd0644b37913c65a6f92ea20a0fe7e3d3799fd872cfe01a278a",
+      "size": 520611
+    },
+    {
+      "path": "mods/adventure-platform-neoforge-6.0.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/adventure-platform-neoforge-6.0.1.jar",
+      "sha256": "5c6f7e4317297ec69e2ea7d06143b9ab251a98e6e745485853e3679e59eae848",
+      "size": 847551
+    },
+    {
+      "path": "mods/AI-Improvements-1.21-0.5.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/AI-Improvements-1.21-0.5.3.jar",
+      "sha256": "795618769ff1ac782750be9e8faaf3e3d212f1687c3baab98c1282a98a63a41e",
+      "size": 28984
+    },
+    {
+      "path": "mods/AmbientSounds_NEOFORGE_v6.3.3_mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/AmbientSounds_NEOFORGE_v6.3.3_mc1.21.1.jar",
+      "sha256": "c062dbc2399089666fb601611b3bf73fd29bef61433b0542e7d2e7286af93996",
+      "size": 84811178
+    },
+    {
+      "path": "mods/amendments-1.21-2.0.15-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/amendments-1.21-2.0.15-neoforge.jar",
+      "sha256": "e44e67d5c2eb5a73ee8ca3d1e9099ed20ccbf8167022bc407df8434b1bf362b5",
+      "size": 1143659
+    },
+    {
+      "path": "mods/appleskin-neoforge-mc1.21-3.0.8.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/appleskin-neoforge-mc1.21-3.0.8.jar",
+      "sha256": "60691595ce02e48281c1ec0d1fac4e56ba1aadd496dd6c071a41b4da7f82bf42",
+      "size": 75595
+    },
+    {
+      "path": "mods/architectury-13.0.8-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/architectury-13.0.8-neoforge.jar",
+      "sha256": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
+      "size": 584004
+    },
+    {
+      "path": "mods/athena-neoforge-1.21-4.0.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/athena-neoforge-1.21-4.0.2.jar",
+      "sha256": "81cff69ac23885f64dc9998bb3890e3ab2e21ae16c134936c552d12fbab385d6",
+      "size": 92698
+    },
+    {
+      "path": "mods/attributefix-neoforge-1.21.1-21.1.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/attributefix-neoforge-1.21.1-21.1.3.jar",
+      "sha256": "b2b20f3d44e824071284c14de3f4d3323d420e1c450040b339a5c37d2c382ad4",
+      "size": 19809
+    },
+    {
+      "path": "mods/baguettelib-1.21.1-NeoForge-1.1.6.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/baguettelib-1.21.1-NeoForge-1.1.6.jar",
+      "sha256": "9db6a217c9c6010e017bdcaf31f1ab36f454d438fb219560f90bf8899b122eb8",
+      "size": 66319
+    },
+    {
+      "path": "mods/balm-neoforge-1.21.1-21.0.56.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/balm-neoforge-1.21.1-21.0.56.jar",
+      "sha256": "868960025d7da92d08ba382cddef18a2b2b238de5d635048cef29f9af0e58c8f",
+      "size": 739709
+    },
+    {
+      "path": "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "sha256": "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e",
+      "size": 98641
+    },
+    {
+      "path": "mods/betterarcheology-neoforge-1.21.1-1.3.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/betterarcheology-neoforge-1.21.1-1.3.4.jar",
+      "sha256": "e0b5b95dde1aed957b8727339340e0b6aaaca22702f2ac27ff7616ad6a1037c4",
+      "size": 3106705
+    },
+    {
+      "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "sha256": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
+      "size": 481646
+    },
+    {
+      "path": "mods/BetterThirdPerson-neoforge-1.9.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/BetterThirdPerson-neoforge-1.9.0.jar",
+      "sha256": "2e74076c67a78f16d696ec9ad1e3138d6ed1418544b297dbe3f4ad9cd791d059",
+      "size": 60941
+    },
+    {
+      "path": "mods/biolith-neoforge-3.0.10.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/biolith-neoforge-3.0.10.jar",
+      "sha256": "7f5c86757c61f56c7dccf602b44a2c17ba08d32d7e88cb531cbcd0c7b4789eab",
+      "size": 215482
+    },
+    {
+      "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+      "sha256": "07f449b7766845883523ffadb8fb706ec011c1212aa378b48bea5841188f0b04",
+      "size": 22338082
+    },
+    {
+      "path": "mods/boatiview-neoforge-0.0.6-1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/boatiview-neoforge-0.0.6-1.21.1.jar",
+      "sha256": "c08f1c2188ab79b4f4085a72d98796d3c59fc3f836c6ce1f3755ea5b8928c77c",
+      "size": 52795
+    },
+    {
+      "path": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "sha256": "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76",
+      "size": 328813
+    },
+    {
+      "path": "mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar",
+      "sha256": "69bd1d5c6061d8eec93a864fcbeae7179dc6fc85fab920c8b835ced26a9d68b8",
+      "size": 4506973
+    },
+    {
+      "path": "mods/camera-neoforge-1.21.1-1.0.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/camera-neoforge-1.21.1-1.0.21.jar",
+      "sha256": "2a84a2c208132eacfb2deb51d9a0903e04cac93ebc8e7932dfa381af56132974",
+      "size": 302968
+    },
+    {
+      "path": "mods/chat_heads-0.15.0-neoforge-1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/chat_heads-0.15.0-neoforge-1.21.jar",
+      "sha256": "fb649cfcd08bbb1c68b2cc966045f6340e26e0a5fa99a5490b12ab94e3fbac3b",
+      "size": 89489
+    },
+    {
+      "path": "mods/chefsdelight-1.0.5-neoforge-1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/chefsdelight-1.0.5-neoforge-1.21.1.jar",
+      "sha256": "9fd7920a4cced00443c107c1ac05002b35543734c76e05ef1d1ebf5f17ce99c8",
+      "size": 95250
+    },
+    {
+      "path": "mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "sha256": "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291",
+      "size": 15020578
+    },
+    {
+      "path": "mods/chisel-neoforge-2.0.0+mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/chisel-neoforge-2.0.0+mc1.21.1.jar",
+      "sha256": "6e592d973f14ece711dc0d00d5f0848ac28280625fc60b1808212c07ffea2a8a",
+      "size": 8268409
+    },
+    {
+      "path": "mods/Chunky-NeoForge-1.4.23.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Chunky-NeoForge-1.4.23.jar",
+      "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274",
+      "size": 340572
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/cloth-config-15.0.140-neoforge.jar",
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+      "size": 1163890
+    },
+    {
+      "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "sha256": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
+      "size": 18382
+    },
+    {
+      "path": "mods/cluttered-[NeoForge]-3.0.3-1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/cluttered-[NeoForge]-3.0.3-1.21.1.jar",
+      "sha256": "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f",
+      "size": 5404861
+    },
+    {
+      "path": "mods/colorwheel-neoforge-1.2.2+mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/colorwheel-neoforge-1.2.2+mc1.21.1.jar",
+      "sha256": "4988cbad184f3121d8f4155eb53185ec0c44873b94ee9f07c00f4040a682e104",
+      "size": 374610
+    },
+    {
+      "path": "mods/comforts-neoforge-9.0.5+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/comforts-neoforge-9.0.5+1.21.1.jar",
+      "sha256": "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615",
+      "size": 422658
+    },
+    {
+      "path": "mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "sha256": "e5b2a1cd8ef1b8a49a322aeccfc5cd9a53d8303613b9f30718f12a1e525d49fe",
+      "size": 819976
+    },
+    {
+      "path": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
+      "size": 77555
+    },
+    {
+      "path": "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1",
+      "size": 1791747
+    },
+    {
+      "path": "mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "sha256": "9b32bcf2c793d33b93b5d4739c0dc4b64231025c7dc5fe40732b66d7cf4b2826",
+      "size": 63981
+    },
+    {
+      "path": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/corpse-neoforge-1.21.1-1.1.13.jar",
+      "sha256": "80d984f0a17d968220129cc58edd5c9f28a5f61a84ec67dcc41228a46dfa4bb1",
+      "size": 253694
+    },
+    {
+      "path": "mods/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+      "sha256": "43c1ac104381748439f92ea426207b86f93bc641f1d6cfebc08be4a563d91260",
+      "size": 24683
+    },
+    {
+      "path": "mods/CosmeticArmours - 1.5.3.1 - 1.21.1 - NeoForge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/CosmeticArmours - 1.5.3.1 - 1.21.1 - NeoForge.jar",
+      "sha256": "098c3cfc7c88d508c8956fcbcbd72121cf90e102d13d77c4e3a3387924eeba03",
+      "size": 17478086
+    },
+    {
+      "path": "mods/crabbersdelight-1.21.1-1.2.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/crabbersdelight-1.21.1-1.2.4.jar",
+      "sha256": "d656c2a1ef33ebfb90d6464ba834f2dd329ac5c67dd423cda392c429157a0795",
+      "size": 601953
+    },
+    {
+      "path": "mods/CraftTweaker-neoforge-1.21.1-21.0.38.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/CraftTweaker-neoforge-1.21.1-21.0.38.jar",
+      "sha256": "4c4a95ca706e1aec41145b2db32737f2aebf1fdedefda0b35b651cad3fa4abaf",
+      "size": 3465718
+    },
+    {
+      "path": "mods/Create Encased-1.21.1-1.8-ht2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Create Encased-1.21.1-1.8-ht2.jar",
+      "sha256": "d66b7caac3fe29bb95ed6c53c8271d797a2f0cacfc98c8819406bc445783d12c",
+      "size": 2410332
+    },
+    {
+      "path": "mods/create_connected-1.1.13-mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/create_connected-1.1.13-mc1.21.1.jar",
+      "sha256": "f78002d3f41c30bc478b6e47028f02a20a24fd74ff8c8c22013b83b01fb4b83d",
+      "size": 6555122
+    },
+    {
+      "path": "mods/create_jetpack-forge-5.1.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/create_jetpack-forge-5.1.2.jar",
+      "sha256": "9fe5a681ea841ce9dc02e7132cd360e1c3e75314905b4ef1493e7548265d0985",
+      "size": 481239
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/create-1.21.1-6.0.10.jar",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+      "size": 19123767
+    },
+    {
+      "path": "mods/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+      "sha256": "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248",
+      "size": 33030286
+    },
+    {
+      "path": "mods/create-enchantment-industry-2.3.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/create-enchantment-industry-2.3.0.jar",
+      "sha256": "304bec94c91e73538cac6516ca3ef7722625764686830357e8cbb6bc21dd4606",
+      "size": 683005
+    },
+    {
+      "path": "mods/create-stuff-additions1.21.1_v2.1.0e.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/create-stuff-additions1.21.1_v2.1.0e.jar",
+      "sha256": "fb5d8f0f88af98b5901ccd9d0f3ad1231f0796366d48ddfe5d537df6257736bd",
+      "size": 1318700
+    },
+    {
+      "path": "mods/createbetterfps-1.21.1-1.1.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/createbetterfps-1.21.1-1.1.3.jar",
+      "sha256": "09e2ac0d3d1a9315691d958335dad956fa785871e19c3eae8b5672895fa54d2a",
+      "size": 26171
+    },
+    {
+      "path": "mods/createdeco-2.1.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/createdeco-2.1.3.jar",
+      "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e",
+      "size": 3328498
+    },
+    {
+      "path": "mods/CreateDragonsPlus-1.10.0b.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/CreateDragonsPlus-1.10.0b.jar",
+      "sha256": "8cc47a5ea04c8bbefd24ebca67d45e6a44f80925723cb2f82676d27b0a2a9d66",
+      "size": 756460
+    },
+    {
+      "path": "mods/createfurnitureseats-4.6.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/createfurnitureseats-4.6.0.jar",
+      "sha256": "80f17d11c87bc06a671c71fa5367e420452a310c57bce03c5bd1a09063ee4788",
+      "size": 24521
+    },
+    {
+      "path": "mods/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+      "sha256": "f08ff14c72ff15de9b3c87200ad06115ff48c73ac21458e038d6e137e162a907",
+      "size": 180932
+    },
+    {
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.35_mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/CreativeCore_NEOFORGE_v2.13.35_mc1.21.1.jar",
+      "sha256": "7119fbce700e4cda8893d92f55091eeed5e24821c4d36e808c3225d422fff89e",
+      "size": 1212692
+    },
+    {
+      "path": "mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "sha256": "ed83bea2826667fca80a6a8067f89fe7b97eb8b3213bbcb7f0f4e6a6898c0bc9",
+      "size": 1185088
+    },
+    {
+      "path": "mods/cristellib-neoforge-1.21.1-3.0.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/cristellib-neoforge-1.21.1-3.0.3.jar",
+      "sha256": "f5ada4fe5a4a8ba9f8800a54f9ae6fe5a7a4d1156ada6567d11d45e3c3b02239",
+      "size": 539899
+    },
+    {
+      "path": "mods/crittersandcompanions-neoforge-1.21.1-2.3.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/crittersandcompanions-neoforge-1.21.1-2.3.4.jar",
+      "sha256": "4520de01496893d5cb80faaaeadf67b03481ebe769e11caffaa02bb12fe3bcd1",
+      "size": 1398478
+    },
+    {
+      "path": "mods/cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
+      "sha256": "a33856fd37d787b3bd4103d5c045e669c2f4274efb8d10f1ee0a759911a21e2c",
+      "size": 133851
+    },
+    {
+      "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+      "size": 410690
+    },
+    {
+      "path": "mods/cwb-neoforge-3.0.0+mc1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/cwb-neoforge-3.0.0+mc1.21.jar",
+      "sha256": "be7144647bc160858e659f6793fcce993914443b9256c2df0369b1c616a2a5d4",
+      "size": 81843
+    },
+    {
+      "path": "mods/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
+      "sha256": "ffe8da15ac4deedcf1eb306b0a49d6f5ba1a8385d0119bf1475e5c358f16f855",
+      "size": 30019727
+    },
+    {
+      "path": "mods/DnDesires-1.21.1-2.2d-BETA.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/DnDesires-1.21.1-2.2d-BETA.jar",
+      "sha256": "8718c117ba98e7fd92312a73b37f20fc8cbfac800963bc5ced4eb49ccdb11330",
+      "size": 1184499
+    },
+    {
+      "path": "mods/dsmpauth-1.0.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/dsmpauth-1.0.0.jar",
+      "sha256": "d5a1e08731f17d36961c43df4470ed1795cc318c848d7bfefdb31f6cff26f3eb",
+      "size": 17121
+    },
+    {
+      "path": "mods/dtbop-3.4.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/dtbop-3.4.0.jar",
+      "sha256": "a4daa50c3bcd78258ce2b4cb56d435c61c8e5ac2a66ff046facc83fe3a485da9",
+      "size": 411408
+    },
+    {
+      "path": "mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "sha256": "7eee1eca7e3b2c6c1bede055934f391ae2e8349ffe33e106f451176d2cfcf0e4",
+      "size": 11842679
+    },
+    {
+      "path": "mods/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+      "sha256": "549040fbd81d1b33aea38681109685e86d63985785246a831112c4ba5740d2df",
+      "size": 244981
+    },
+    {
+      "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "sha256": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
+      "size": 220193
+    },
+    {
+      "path": "mods/dynamictrees-neoforge-1.21.1-1.7.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/dynamictrees-neoforge-1.21.1-1.7.0.jar",
+      "sha256": "6c32460c414c07333694a19cc486defbfec2a94fe5187076151ae93973f3ee45",
+      "size": 3792883
+    },
+    {
+      "path": "mods/elevatorid-neoforge-1.21.1-1.11.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/elevatorid-neoforge-1.21.1-1.11.4.jar",
+      "sha256": "c3908b14549addaa18951c473d2d1f67a3df61bcf5599c6031e71ca5685bf14c",
+      "size": 191190
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "sha256": "8cff63e900acd55bb39d41978cc2a70a974e326e2038c30ff20ccfde4c953a43",
+      "size": 861829
+    },
+    {
+      "path": "mods/enchdesc-neoforge-1.21.1-21.1.9.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/enchdesc-neoforge-1.21.1-21.1.9.jar",
+      "sha256": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843",
+      "size": 81847
+    },
+    {
+      "path": "mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+      "sha256": "fe6c04dcfdbb8815058ebf1102d64cb4c86060a0a1b7350121e4a976d4a92248",
+      "size": 1330403
+    },
+    {
+      "path": "mods/entity_model_features_1.21-neoforge-3.0.12.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/entity_model_features_1.21-neoforge-3.0.12.jar",
+      "sha256": "7aa25c7469679954266cfc3259fbb54beab3f66399a1d7ff53dc9c43c403fca8",
+      "size": 498869
+    },
+    {
+      "path": "mods/entity_texture_features_1.21-neoforge-7.0.9.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/entity_texture_features_1.21-neoforge-7.0.9.jar",
+      "sha256": "5c237e895f0257a11b5c26015c05e4015d04fc28725bbc358e4ffdb2e6910a1c",
+      "size": 735043
+    },
+    {
+      "path": "mods/entityculling-neoforge-1.9.5-mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/entityculling-neoforge-1.9.5-mc1.21.1.jar",
+      "sha256": "6357c6c7649d139f088b7176d589e3e7b16790f3c484a544c112702df0373001",
+      "size": 1564767
+    },
+    {
+      "path": "mods/fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+      "sha256": "d935c9862541a41083f0ab086684b0510a924c05f609f8935f7fab6fbe843613",
+      "size": 4297501
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-1.2.10.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/FarmersDelight-1.21.1-1.2.10.jar",
+      "sha256": "5346b829cdb4b4ae530a3e588b56aa4d26356ceec57a07e3d0c6b681f3f96dcb",
+      "size": 2935025
+    },
+    {
+      "path": "mods/fast-ip-ping-v1.0.8-mc1.21.1-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/fast-ip-ping-v1.0.8-mc1.21.1-neoforge.jar",
+      "sha256": "a94b965f7bacea49d9a6253866801cc9073ca5d38e184c7695d82b6a2536b707",
+      "size": 10332
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/ferritecore-7.0.3-neoforge.jar",
+      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+      "size": 121559
+    },
+    {
+      "path": "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+      "sha256": "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d",
+      "size": 5569793
+    },
+    {
+      "path": "mods/formations-1.0.4-neoforge-mc1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/formations-1.0.4-neoforge-mc1.21.jar",
+      "sha256": "2d9b50575fdf42e59d5dacda23ce5d01fc5cb19db02a1278329e3ad40893848e",
+      "size": 287525
+    },
+    {
+      "path": "mods/formationsnether-1.0.5-mc1.21+.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/formationsnether-1.0.5-mc1.21+.jar",
+      "sha256": "5a2072de5d94ebf6230803c73af2f2de7374263efc068ce50e8fb6fc93336505",
+      "size": 942046
+    },
+    {
+      "path": "mods/frightsdelight-neoforge-1.21.1-1.4.6.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/frightsdelight-neoforge-1.21.1-1.4.6.jar",
+      "sha256": "8ad508977a1ac49ce43a0fb791226afa1915c16ca917157c5edfa96c8247d7b1",
+      "size": 968115
+    },
+    {
+      "path": "mods/fusion-1.2.12-neoforge-mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/fusion-1.2.12-neoforge-mc1.21.1.jar",
+      "sha256": "5961f78d85b7bd88205bc65c9f8182bc041646aa3579fa39810878d9b5b87c0c",
+      "size": 532912
+    },
+    {
+      "path": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "sha256": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
+      "size": 2369895
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "sha256": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9",
+      "size": 622582
+    },
+    {
+      "path": "mods/ghosts-neoforge-1.21.1-1.3.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/ghosts-neoforge-1.21.1-1.3.2.jar",
+      "sha256": "7d3fedea863aa726c3cc7275cb4b2d147571858ed96805f4f3ec97990be0734a",
+      "size": 707295
+    },
+    {
+      "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "sha256": "31589ffc136ac031319db88fa7ce2599ba789ae5d18bd5125e1857e20a834993",
+      "size": 90918
+    },
+    {
+      "path": "mods/golemoverhaul-neoforge-1.21.1-1.1.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/golemoverhaul-neoforge-1.21.1-1.1.0.jar",
+      "sha256": "c9cee3a7e7c7f4556117d17a617afba7dd7d43a9351742f3bf490efc37479b25",
+      "size": 1033740
+    },
+    {
+      "path": "mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "sha256": "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948",
+      "size": 7132842
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "sha256": "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0",
+      "size": 368598
+    },
+    {
+      "path": "mods/immersive_melodies-neoforge-0.6.2+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/immersive_melodies-neoforge-0.6.2+1.21.1.jar",
+      "sha256": "80843f8b76f22a44726448f3c03d0f337c0b28703bff726430445e64359467ff",
+      "size": 5520152
+    },
+    {
+      "path": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+      "sha256": "6b914e305f27962a91d49a659b77eb65f47acee9d79930801b4fc1d3e474c8a4",
+      "size": 217081
+    },
+    {
+      "path": "mods/interiors-1.21.1-neoforge-0.6.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/interiors-1.21.1-neoforge-0.6.1.jar",
+      "sha256": "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5",
+      "size": 486912
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "sha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
+      "size": 2438548
+    },
+    {
+      "path": "mods/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+      "sha256": "a010b32a31f59110cc0addcbe789ce42e76131bb131ede73b0e078e736fd3c68",
+      "size": 24037
+    },
+    {
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "sha256": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
+      "size": 725742
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "sha256": "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826",
+      "size": 1529391
+    },
+    {
+      "path": "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "sha256": "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1",
+      "size": 43798
+    },
+    {
+      "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd",
+      "size": 618842
+    },
+    {
+      "path": "mods/kotlinforforge-5.11.0-all.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/kotlinforforge-5.11.0-all.jar",
+      "sha256": "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779",
+      "size": 6869790
+    },
+    {
+      "path": "mods/kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "sha256": "9051fd08349850cb9b28845554246ef4f2c976892835a704ee27dcb7c8bfd7a1",
+      "size": 38629
+    },
+    {
+      "path": "mods/kubejs-neoforge-2101.7.2-build.348.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/kubejs-neoforge-2101.7.2-build.348.jar",
+      "sha256": "a38abde5dc80f9d94c9b944b17c82a9eaafbe168c87b4f419e5771ceeaaa2007",
+      "size": 2240610
+    },
+    {
+      "path": "mods/letsdo-bakery-neoforge-2.1.6.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/letsdo-bakery-neoforge-2.1.6.jar",
+      "sha256": "bfe7f9b3ea104fb68303d49b7cda0876520a5504067b2ba0293965474aaef649",
+      "size": 1039749
+    },
+    {
+      "path": "mods/letsdo-beachparty-neoforge-2.1.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/letsdo-beachparty-neoforge-2.1.4.jar",
+      "sha256": "3a283e16bb6b7465a3863cfc4262797293de8d32d8bac85b5553e2d7f62781b4",
+      "size": 7759926
+    },
+    {
+      "path": "mods/letsdo-brewery-neoforge-2.1.9.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/letsdo-brewery-neoforge-2.1.9.jar",
+      "sha256": "7abbc2bb43fa319d4893e84b145b2cc803e6e61f5e6f0c37ec4611567a07ed66",
+      "size": 1656054
+    },
+    {
+      "path": "mods/letsdo-farm_and_charm-neoforge-1.1.22.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/letsdo-farm_and_charm-neoforge-1.1.22.jar",
+      "sha256": "2fe62301c96883689bee28a7eac4b05ea026990c26b51d06a124a4bd3a1b5293",
+      "size": 2580595
+    },
+    {
+      "path": "mods/letsdo-furniture-neoforge-1.1.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/letsdo-furniture-neoforge-1.1.4.jar",
+      "sha256": "c291928e4402ef638d2544fb3c551379375b80acf5a019383b57752a36196e54",
+      "size": 3901925
+    },
+    {
+      "path": "mods/letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "sha256": "053ecf864dc1b1624b0fb78a552a086ee9da21c1c81ce5a75aad61ec2bfebf24",
+      "size": 757160
+    },
+    {
+      "path": "mods/letsdo-meadow-neoforge-1.4.8.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/letsdo-meadow-neoforge-1.4.8.jar",
+      "sha256": "f5d4a870b46f2952b7a04dad663cc4bdf8faad75e8951ba1551e85fd72d14402",
+      "size": 2165946
+    },
+    {
+      "path": "mods/letsdo-vinery-neoforge-1.5.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/letsdo-vinery-neoforge-1.5.3.jar",
+      "sha256": "d0348d1bbf15cd7f8ec5821457887240150d073fb5f612bc70f9517515225d10",
+      "size": 2001616
+    },
+    {
+      "path": "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "sha256": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83",
+      "size": 774148
+    },
+    {
+      "path": "mods/lithostitched-1.6.1-neoforge-1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/lithostitched-1.6.1-neoforge-1.21.1.jar",
+      "sha256": "142c14d50c382504458ec23ee717708c1d0f34805e68f38c7b0646e5468e5ad4",
+      "size": 791070
+    },
+    {
+      "path": "mods/lootr-neoforge-1.21.1-1.11.36.117.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/lootr-neoforge-1.21.1-1.11.36.117.jar",
+      "sha256": "01e9ccb37b1ee85672937b3061b0d164c7a16b21917f4173851da373f101c43a",
+      "size": 970320
+    },
+    {
+      "path": "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "sha256": "070b817d3282760d9789b22ce13779613c8b558e02012fd5884d343175d88fd9",
+      "size": 661387
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "sha256": "87261e309f5e10c9910169d5acbba613cab3a2d2270698b0bd47e657a45b0518",
+      "size": 1190404
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "sha256": "819fda8059b210e9de8b9275c8b8e0d931054af5a5ad47771c72d9fd4ab85e88",
+      "size": 2080436
+    },
+    {
+      "path": "mods/mcw-holidays-1.1.2-mc1.21.1neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/mcw-holidays-1.1.2-mc1.21.1neoforge.jar",
+      "sha256": "f972b8d62ce77539129015732eb2e2d2d600cc036bf2cfbd7491b9d66e199350",
+      "size": 1012915
+    },
+    {
+      "path": "mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "sha256": "b27cd68a7673874b0f6d765bdef2a022666cc07ca0e5057209a16d1a535da9e4",
+      "size": 525744
+    },
+    {
+      "path": "mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "sha256": "e4b0e5a5b67decc2285e71f017fb4f60284796fa0838de3edeaf6b7cb0395735",
+      "size": 673871
+    },
+    {
+      "path": "mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "sha256": "f04b51518f75c8a7d5fe1be5589dbcb8a7b0d4f67373ca903578804d971b1286",
+      "size": 777742
+    },
+    {
+      "path": "mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "sha256": "1408d46bc2e7515b25b4da8393f8dbb3d79bcd9fb6d51fcf26fe84734c2597af",
+      "size": 572870
+    },
+    {
+      "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "sha256": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871",
+      "size": 36096
+    },
+    {
+      "path": "mods/midnightlib-neoforge-1.9.2+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/midnightlib-neoforge-1.9.2+1.21.1.jar",
+      "sha256": "adb29c10b3bdc2fd1a1cb8f4cbeb0280f7d15af1a76ee3074d2db1eec7fe28e7",
+      "size": 60347
+    },
+    {
+      "path": "mods/modelfix-1.21-1.10.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/modelfix-1.21-1.10.jar",
+      "sha256": "ee774b72135450ef9db1c7a75837304f30d05c3541e3a348c4f5769ab0f04912",
+      "size": 47035
+    },
+    {
+      "path": "mods/modernfix-neoforge-5.26.1+mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/modernfix-neoforge-5.26.1+mc1.21.1.jar",
+      "sha256": "4b0b0f36813255592d5b0d1eebd8fd2219e27038cc8966dd53b2209dd69bb058",
+      "size": 498852
+    },
+    {
+      "path": "mods/monolib-neoforge-1.21.1-2.1.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/monolib-neoforge-1.21.1-2.1.0.jar",
+      "sha256": "46b20622774b924cf2ab66e48a7f5dc7fc4a0995ba7d771a0a697a2468ac69ae",
+      "size": 179499
+    },
+    {
+      "path": "mods/moonlight-1.21-2.29.20-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/moonlight-1.21-2.29.20-neoforge.jar",
+      "sha256": "8afd86b6720c06412bf632ef5c797096db1e3fab1f560315a4f47b024abbfc3d",
+      "size": 1586350
+    },
+    {
+      "path": "mods/moredelight-25.07.28a-1.21-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/moredelight-25.07.28a-1.21-neoforge.jar",
+      "sha256": "35ff6588d702a73633c590b0df95e4827602f072ab9ac602ae3f3483a9d77298",
+      "size": 144628
+    },
+    {
+      "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
+      "size": 73938
+    },
+    {
+      "path": "mods/mowziesmobs-1.21.1-1.8.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/mowziesmobs-1.21.1-1.8.2.jar",
+      "sha256": "b8e7e39fb6430326de7fbb193db56588ee8bd04d0054527924fe588f37131e4f",
+      "size": 36042925
+    },
+    {
+      "path": "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
+      "sha256": "ed025100de31f5635d48a5a0cc4bc9c701d885bf3777e0c2ad8af5f2cad4601a",
+      "size": 243953
+    },
+    {
+      "path": "mods/NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+      "sha256": "6dd24f37f5d69a6f9803c00b7722f9f103647131c29415511fa01c6feced0848",
+      "size": 216873
+    },
+    {
+      "path": "mods/Necronomicon-NeoForge-1.6.0+1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Necronomicon-NeoForge-1.6.0+1.21.jar",
+      "sha256": "63c3057fd28bf9e4a94ffe84f53dd20d9e7172b3e4afdf1b989213935d4aaf14",
+      "size": 29865
+    },
+    {
+      "path": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "sha256": "242267afa324352130adb2263a5667e421c6f4c573ad0dfe0565971255ea5a1e",
+      "size": 211972
+    },
+    {
+      "path": "mods/new_slab_variants-merged-1.21.1-3.0.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/new_slab_variants-merged-1.21.1-3.0.1.jar",
+      "sha256": "f48760ae3d0aea4dd2164e6ad8244be00046b0772f5c887207ec5804df96b708",
+      "size": 1287430
+    },
+    {
+      "path": "mods/nightlights-neoforge-1.3.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/nightlights-neoforge-1.3.0.jar",
+      "sha256": "6f66e2a1b5adf34b5815cadb337a8a2cabd7adcbefed590aac36d283ebe3f382",
+      "size": 440917
+    },
+    {
+      "path": "mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+      "sha256": "ad4abc829b00061d4e162dee0dfa74219b3474d7f21385388aca8d5f27bf23d0",
+      "size": 23830
+    },
+    {
+      "path": "mods/notenoughanimations-neoforge-1.11.3-mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/notenoughanimations-neoforge-1.11.3-mc1.21.1.jar",
+      "sha256": "096a0026702abe5e331684e9212247cf48a25e575dfe36a366ecc068ef5952cf",
+      "size": 1926047
+    },
+    {
+      "path": "mods/notenoughcrashes-neoforge-4.4.9+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/notenoughcrashes-neoforge-4.4.9+1.21.1.jar",
+      "sha256": "5e26339287e4cd21e1be00d52088e3b5f0cab176eac967acd7404115c6ecd22f",
+      "size": 598916
+    },
+    {
+      "path": "mods/OctoLib-NEOFORGE-0.6.1+1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/OctoLib-NEOFORGE-0.6.1+1.21.jar",
+      "sha256": "77e0a87cf7ab158ce7cbd69dc0fa1e0bf871841d8ddc078b4fbcfecd570d7581",
+      "size": 540285
+    },
+    {
+      "path": "mods/overbalanced-1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/overbalanced-1.jar",
+      "sha256": "517262af791f3df0e89415669ba6e73da6af06381637b03b763d469cad24cb78",
+      "size": 68834
+    },
+    {
+      "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "sha256": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
+      "size": 1221583
+    },
+    {
+      "path": "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "sha256": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f",
+      "size": 46623
+    },
+    {
+      "path": "mods/Paraglider-neoforge-21.1.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Paraglider-neoforge-21.1.3.jar",
+      "sha256": "dfd632f63f2949bffeedbd8ca28a4a43c20e09100881341cf243edaf0f1c50c0",
+      "size": 657743
+    },
+    {
+      "path": "mods/particle_core-0.3.3+1.21+neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/particle_core-0.3.3+1.21+neoforge.jar",
+      "sha256": "38c05981d1dc8428c7ab1130b9ec7f05bca1b70f909aba9c454c9611702a8dda",
+      "size": 138375
+    },
+    {
+      "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "sha256": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
+      "size": 646777
+    },
+    {
+      "path": "mods/Pehkui-3.8.3+1.21-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Pehkui-3.8.3+1.21-neoforge.jar",
+      "sha256": "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec",
+      "size": 507568
+    },
+    {
+      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
+      "size": 203149
+    },
+    {
+      "path": "mods/PlayerRevive_NEOFORGE_v2.1.0_mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/PlayerRevive_NEOFORGE_v2.1.0_mc1.21.1.jar",
+      "sha256": "08b6252996627aece36164c553715f6e8180030f55bf61db004f3369b4ca3115",
+      "size": 5304844
+    },
+    {
+      "path": "mods/plushie_buddies-0.1.7-neofroge-1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/plushie_buddies-0.1.7-neofroge-1.21.1.jar",
+      "sha256": "6e94507650addc5cb1e81521337b5cbaa2512e72b2c4c3da2f7cfcde9bf658bc",
+      "size": 395626
+    },
+    {
+      "path": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "sha256": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
+      "size": 174972
+    },
+    {
+      "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
+      "size": 84812
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "sha256": "305c828c171a5b52867b56686665b525bcf286018496ece81f376806794ba914",
+      "size": 1080389
+    },
+    {
+      "path": "mods/rechiseled-1.2.4-neoforge-mc1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/rechiseled-1.2.4-neoforge-mc1.21.jar",
+      "sha256": "3316acf7af3a250fd0f2fa5c39540ee4e81c21f7ead29c4107d6a95f47642dd2",
+      "size": 11488067
+    },
+    {
+      "path": "mods/rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+      "sha256": "13832eec4d25548658ab93b235889d314b0add4abe7ca0c603db3efdf7664e73",
+      "size": 981192
+    },
+    {
+      "path": "mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "sha256": "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf",
+      "size": 78451
+    },
+    {
+      "path": "mods/regions_unexplored-neoforge-1.21.1-0.5.9.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/regions_unexplored-neoforge-1.21.1-0.5.9.jar",
+      "sha256": "6cad2d8438d6c2aa08dd8eb8c07d38fda1a685ad5a731c8a5814a0ebdaa2d31d",
+      "size": 5365182
+    },
+    {
+      "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "sha256": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4",
+      "size": 341009
+    },
+    {
+      "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
+      "size": 484332
+    },
+    {
+      "path": "mods/rhino-2101.2.7-build.81.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/rhino-2101.2.7-build.81.jar",
+      "sha256": "c79f19d9acea367adc1a8631ffc04c300a6e2b4902994a0111bd283b5e7f19fb",
+      "size": 882033
+    },
+    {
+      "path": "mods/Ribbits-1.21.1-NeoForge-4.1.6.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Ribbits-1.21.1-NeoForge-4.1.6.jar",
+      "sha256": "794223f5a91b8b80a962754b5180ec3e2472db6941e9b6c1cdd49324df628389",
+      "size": 2215572
+    },
+    {
+      "path": "mods/sable-neoforge-1.21.1-1.2.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/sable-neoforge-1.21.1-1.2.2.jar",
+      "sha256": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
+      "size": 12719293
+    },
+    {
+      "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+      "size": 77326
+    },
+    {
+      "path": "mods/simplehats-neoforge-1.21.1-0.4.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/simplehats-neoforge-1.21.1-0.4.0.jar",
+      "sha256": "227c366601509a62493c6b0a7ef3b3ff8941d2d85a1714fc18835e2a55021864",
+      "size": 1400084
+    },
+    {
+      "path": "mods/sit-1.21.1-1.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/sit-1.21.1-1.4.jar",
+      "sha256": "a726385d1c6781f93906dce38d125fe5f4da32b10ae5601bf855773939603c04",
+      "size": 14031
+    },
+    {
+      "path": "mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+      "sha256": "c825d6acd41a983217f410c6d51c6557e3afc35131f6da0aa6dcd07e67cfa52c",
+      "size": 1974380
+    },
+    {
+      "path": "mods/sliceanddice-forge-4.2.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/sliceanddice-forge-4.2.4.jar",
+      "sha256": "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd",
+      "size": 406699
+    },
+    {
+      "path": "mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+      "sha256": "c20fe1a554916cde5dd0ac72ba2b82ed04263026d4394ac51be6f7a300902443",
+      "size": 367047
+    },
+    {
+      "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+      "size": 1162994
+    },
+    {
+      "path": "mods/sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+      "sha256": "39c48261ae34a26fcfbf0b64303a5afcc205cb40bb70b88941fced268f600e12",
+      "size": 224869
+    },
+    {
+      "path": "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "sha256": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
+      "size": 8732437
+    },
+    {
+      "path": "mods/spark-1.10.124-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/spark-1.10.124-neoforge.jar",
+      "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
+      "size": 3642581
+    },
+    {
+      "path": "mods/spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar",
+      "sha256": "792970a9bc1c57800bf695e9e21ddbe9b72b3dda09dbb1172763a04c89d6aa78",
+      "size": 223524
+    },
+    {
+      "path": "mods/structure_layout_optimizer-neoforge-1.0.12.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/structure_layout_optimizer-neoforge-1.0.12.jar",
+      "sha256": "ef8eb29c5c4f111c74a49d379843e4c2f51d11b28c8116a49be13636c83f4385",
+      "size": 61777
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "sha256": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b",
+      "size": 207514
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.20-neoforge-mc1.21.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/supermartijn642corelib-1.1.20-neoforge-mc1.21.jar",
+      "sha256": "ad599fcd409f087e3e95a8263ff830b80ece841fc9854a9deb6c9b7738a292fc",
+      "size": 558373
+    },
+    {
+      "path": "mods/supplementaries-1.21-3.5.26-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/supplementaries-1.21-3.5.26-neoforge.jar",
+      "sha256": "7c5df0f48847f8029bc6a42b1c2ef76b59f48c17ffbd1b03f41d2a96fab65d7e",
+      "size": 13354404
+    },
+    {
+      "path": "mods/suppsquared-1.21-1.2.17-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/suppsquared-1.21-1.2.17-neoforge.jar",
+      "sha256": "49120a2cedff5a51b9257ee44c72a9d38058ea13fe98d3fcb9ead2c2edf5dd49",
+      "size": 774220
+    },
+    {
+      "path": "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
+      "sha256": "925d61a8cee8ca013bac15cda2fcfbdf647eb1cde50c414c18298ea3a627c640",
+      "size": 3641681
+    },
+    {
+      "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "sha256": "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9",
+      "size": 120365
+    },
+    {
+      "path": "mods/Terralith_1.21.x_v2.5.8.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/Terralith_1.21.x_v2.5.8.jar",
+      "sha256": "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf",
+      "size": 3115385
+    },
+    {
+      "path": "mods/tidal-towns-1.3.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/tidal-towns-1.3.4.jar",
+      "sha256": "691dc0d8ad68bc5f02d14221687286e496e5ee41314c1f282a2d51e927d0d5e7",
+      "size": 110050
+    },
+    {
+      "path": "mods/trashslot-neoforge-1.21.1-21.1.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/trashslot-neoforge-1.21.1-21.1.4.jar",
+      "sha256": "2050aa12c8d75e75bba373693f836b28d06587d7ae2950d45aa7bad0a9e6b01d",
+      "size": 123189
+    },
+    {
+      "path": "mods/travelersbackpack-neoforge-1.21.1-10.1.33.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/travelersbackpack-neoforge-1.21.1-10.1.33.jar",
+      "sha256": "d031139a113d96fd14a000a60093044b5284c7edc6685dfb73337885f3ce2574",
+      "size": 1328580
+    },
+    {
+      "path": "mods/vanillin-neoforge-1.21.1-1.1.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/vanillin-neoforge-1.21.1-1.1.3.jar",
+      "sha256": "c0183973c7833ba97bf473f394cad3462c21f29ac0c87aad18005d7fe6bc32ad",
+      "size": 877578
+    },
+    {
+      "path": "mods/visiting-villagers-neoforge-1.0.1-mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/visiting-villagers-neoforge-1.0.1-mc1.21.1.jar",
+      "sha256": "c672f5a378e24ef49a2d8e75b9eca6da606c397fd93b7911925e84e443b39772",
+      "size": 253843
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.15.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/voicechat-neoforge-1.21.1-2.6.15.jar",
+      "sha256": "e5dee517378a3addd98f4dc28dcce22af54ede2e6eb323a3af7f9fc49953de64",
+      "size": 4900726
+    },
+    {
+      "path": "mods/waterframes-NEOFORGE-mc1.21.1-v2.1.22.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/waterframes-NEOFORGE-mc1.21.1-v2.1.22.jar",
+      "sha256": "c2c9479f4ffe338ee89c35cf2f8859e52d77ebf5c95a3e3eba9344434c9b7fbd",
+      "size": 255204
+    },
+    {
+      "path": "mods/watermedia_youtube_plugin-2.1.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/watermedia_youtube_plugin-2.1.2.jar",
+      "sha256": "95c2841103b4d1e0c222f29b49d9500c0d5306772aa18c6eb11925be6ff7507e",
+      "size": 3830072
+    },
+    {
+      "path": "mods/watermedia-2.1.37.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/watermedia-2.1.37.jar",
+      "sha256": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389",
+      "size": 37046674
+    },
+    {
+      "path": "mods/waveycapes-neoforge-1.8.2-mc1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/waveycapes-neoforge-1.8.2-mc1.21.1.jar",
+      "sha256": "9d3566931ed8d692dbf75679eb2cff0396aedd1441e43ac61b21205702bd87c0",
+      "size": 1835650
+    },
+    {
+      "path": "mods/waystones-neoforge-1.21.1-21.1.29.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/waystones-neoforge-1.21.1-21.1.29.jar",
+      "sha256": "6866407511751c2c77b59e8c36a27b8c3f266b71e48771c9b18ecf61f5a997ca",
+      "size": 876329
+    },
+    {
+      "path": "mods/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+      "sha256": "b28dd669e17d70be126b887845646ade10f2c9a2aed15a0750e7cc1c760e653d",
+      "size": 2137784
+    },
+    {
+      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "sha256": "a00363399c1672e5bfa399889d128f5ba60f42200ee97312038924df6cbebcb6",
+      "size": 1386001
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
+      "size": 1118651
+    },
+    {
+      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "sha256": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca",
+      "size": 388678
+    },
+    {
+      "path": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
+      "sha256": "aa94ae3e7fdacb469459bf45be60c35bebfebe0488a79e31c7686d746939701d",
+      "size": 392794
+    },
+    {
+      "path": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "sha256": "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6",
+      "size": 905839
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "sha256": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4",
+      "size": 398130
+    },
+    {
+      "path": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "sha256": "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0",
+      "size": 795839
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "sha256": "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0",
+      "size": 493967
+    },
+    {
+      "path": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "sha256": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff",
+      "size": 609639
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "sha256": "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02",
+      "size": 1025571
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "sha256": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58",
+      "size": 461244
+    },
+    {
+      "path": "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "sha256": "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d",
+      "size": 174789
+    },
+    {
+      "path": "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "sha256": "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec",
+      "size": 136820
+    },
+    {
+      "path": "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "sha256": "0cd26474e514f5dc3114aaf5ec7e049bcd285f0c5db191bb45223193f35df70d",
+      "size": 198183
+    },
+    {
+      "path": "mods/zombieawareness-neoforge-1.21.0-1.13.2.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/zombieawareness-neoforge-1.21.0-1.13.2.jar",
+      "sha256": "8152f9fa4c0c3cdb6541ac46d852902617e80ccd121cfa43412c0b56045b40ae",
+      "size": 304511
+    },
+    {
+      "path": "resourcepacks/Faithful 64x - Release 6.zip",
+      "url": "https://dragoneczeq.github.io/DSMP/resourcepacks/Faithful 64x - Release 6.zip",
+      "sha256": "ba28248289cf0ca2b4021cb90de1e1712dc1d7079f2fe1d250cb03b494c5f79f",
+      "size": 16767880
+    },
+    {
+      "path": "resourcepacks/FreshAnimations_v1.10.4.zip",
+      "url": "https://dragoneczeq.github.io/DSMP/resourcepacks/FreshAnimations_v1.10.4.zip",
+      "sha256": "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2",
+      "size": 850941
+    },
+    {
+      "path": "resourcepacks/LowOnFire 1.21.3.zip",
+      "url": "https://dragoneczeq.github.io/DSMP/resourcepacks/LowOnFire 1.21.3.zip",
+      "sha256": "55ab1c3595da0d8174efe28c2ef9a35e49997a371c67bb7664e841d26954dc15",
+      "size": 41582
+    },
+    {
+      "path": "resourcepacks/MandalasGUI+Dakmode_1.21.6_v2.1.zip",
+      "url": "https://dragoneczeq.github.io/DSMP/resourcepacks/MandalasGUI+Dakmode_1.21.6_v2.1.zip",
+      "sha256": "a760f0271ed5cc363761aac17a0b388cb56b273fa2ba055562d9f2e08965edfb",
+      "size": 726042
+    },
+    {
+      "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "url": "https://dragoneczeq.github.io/DSMP/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "sha256": "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c",
+      "size": 1791406
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip",
+      "url": "https://dragoneczeq.github.io/DSMP/shaderpacks/ComplementaryUnbound_r5.7.1.zip",
+      "sha256": "5cbf4d99bc7ce4f0df5c15974d276e0949bf6974d48d88a77d5e307b0b9be8af",
+      "size": 522973
+    },
+    {
+      "path": "shaderpacks/MakeUp-UltraFast-9.4c.zip",
+      "url": "https://dragoneczeq.github.io/DSMP/shaderpacks/MakeUp-UltraFast-9.4c.zip",
+      "sha256": "f88931d65e971807148d09b71ee4aa85e293184cac94405c7d84350b22cb91d9",
+      "size": 402680
+    },
+    {
+      "path": "shaderpacks/photon_v1.2a.zip",
+      "url": "https://dragoneczeq.github.io/DSMP/shaderpacks/photon_v1.2a.zip",
+      "sha256": "a7134a10138f6e5fe523dafa23bd266ba2e53621ac65a5e23294fe9a125b9d73",
+      "size": 3737845
+    },
+    {
+      "path": "shaderpacks/superDuperVanilla.zip",
+      "url": "https://dragoneczeq.github.io/DSMP/shaderpacks/superDuperVanilla.zip",
+      "sha256": "c1cd481ac7ec81b6cb82f162b235509568f6f1ab9e416ccfedaee15e79e1a795",
+      "size": 2851664
+    }
+  ]
+}
