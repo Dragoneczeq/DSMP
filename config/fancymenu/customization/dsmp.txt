@@ -213,7 +213,7 @@ element {
 
 element {
   button_element_executable_block_identifier = b6737740-46da-44dd-ba24-baef364f5b21-1775594550166
-  [executable_action_instance:a033a18a-439c-46e2-8fd3-345f51d3c131-1775594662476][action_type:joinserver] = 26.13.221.7:2137
+  [executable_action_instance:a033a18a-439c-46e2-8fd3-345f51d3c131-1775594662476][action_type:joinserver] = advice-comics.gl.joinmc.link
   [executable_block:3bf36796-285b-49fb-9cba-c471be4c17f0-1775673226749][type:if] = [executables:a033a18a-439c-46e2-8fd3-345f51d3c131-1775594662476;]
   [if_executable_block_body:3bf36796-285b-49fb-9cba-c471be4c17f0-1775673226749] = ae81806f-b7a1-4ddb-8aed-f4e70eb7cd35-1775673200492
   [loading_requirement_container_meta:ae81806f-b7a1-4ddb-8aed-f4e70eb7cd35-1775673200492] = [groups:][instances:973a9077-3da3-4738-a355-6b5005b77849-1775673202271;]
