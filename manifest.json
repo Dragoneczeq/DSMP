@@ -31,6 +31,12 @@
       "size": 2528
     },
     {
+      "path": "minecraft/config/fancymenu/customizablemenus.txt",
+      "url": "https://dragoneczeq.github.io/DSMP/minecraft/config/fancymenu/customizablemenus.txt",
+      "sha256": "80782eb4e401ca1d674fc3874ec233a1ebacbf87316ae4a837acb4d4e0648e6b",
+      "size": 2528
+    },
+    {
       "path": "config/fancymenu/customization/background.txt",
       "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/customization/background.txt",
       "sha256": "d43bbd8e546bfd4967c6f222130992df9ec844fed370a9cb56801afe5777e290",
