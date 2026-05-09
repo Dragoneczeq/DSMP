@@ -1,10 +1,10 @@
 {
   "packName": "DSMP Modpack",
-  "packVersion": "2026-04-30T23:05:18.907Z",
+  "packVersion": "2026-04-30T23:06:18.907Z",
   "mcVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.219",
-  "generatedAt": "2026-04-30T23:05:40.450Z",
+  "generatedAt": "2026-04-30T23:06:40.450Z",
   "files": [
     {
       "path": "config/fancymenu/assets/dsmpl.png",
@@ -82,37 +82,37 @@
       "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_0.png",
       "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_0.png",
       "sha256": "c39bbfe2f1286117aa2a75ee743b8bbccf47464f5fe9ebec97533fa64a24b80f",
-      "size": 5448072
+      "size": 5448073
     },
     {
       "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_1.png",
       "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_1.png",
       "sha256": "58dcd77d672f515b257e1ec49e5c2e95c9692e114f179c7ac2019b3667dd99f9",
-      "size": 5143007
+      "size": 5143008
     },
     {
       "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_2.png",
       "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_2.png",
       "sha256": "dede2a5451c4aad58c972f72c427a0e911f265cafad849142c5fc695722269ca",
-      "size": 5085729
+      "size": 5085720
     },
     {
       "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_3.png",
       "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_3.png",
       "sha256": "c865feb44bd5ef75d7db43b7799b5e28e3ea5d21ac34befdd7accf8bda651a7a",
-      "size": 4902854
+      "size": 4902855
     },
     {
       "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_4.png",
       "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_4.png",
       "sha256": "32b8fed2ef409614b8a55668743af62afba63a1de1653519bf114991bad4254c",
-      "size": 4265523
+      "size": 4265524
     },
     {
       "path": "config/fancymenu/panoramas/dsmp/panorama/panorama_5.png",
       "url": "https://dragoneczeq.github.io/DSMP/config/fancymenu/panoramas/dsmp/panorama/panorama_5.png",
       "sha256": "0363ffc0d9ff9294a4edbf002437924abba16d510f15be21b7788fbe4f5f1d9a",
-      "size": 6196299
+      "size": 6196290
     },
     {
       "path": "config/fancymenu/panoramas/dsmp/properties.txt",
@@ -1145,6 +1145,31 @@
       "url": "https://dragoneczeq.github.io/DSMP/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
       "size": 77326
+    },
+    {
+      "path": "mods/alexsmobs-1.22.17.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/alexsmobs-1.22.17.jar",
+      "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+      "size": 2137
+    },
+
+    {
+      "path": "mods/citadel-1.21.1-2.7.6.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/citadel-1.21.1-2.7.6.jar",
+      "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+      "size": 2137
+    },
+    {
+      "path": "mods/reconstructedwands-neoforge-1.21.1-1.0.0.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/reconstructedwands-neoforge-1.21.1-1.0.0.jar",
+      "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+      "size": 2137
+    },
+    {
+      "path": "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://dragoneczeq.github.io/DSMP/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+      "size": 2137
     },
     {
       "path": "mods/simplehats-neoforge-1.21.1-0.4.0.jar",
